@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FDF2F8"/>
+  <rect x="70" y="150" width="60" height="40" rx="16" fill="#EC4899"/>
+  <circle cx="100" cy="95" r="52" fill="#FCD9B8"/>
+  <!-- 長髮 -->
+  <path d="M48 100 Q42 40 100 38 Q158 40 152 100 Q150 130 140 150 Q146 110 130 90 Q130 130 118 150 Q124 100 100 92 Q76 100 82 150 Q70 130 70 90 Q50 110 60 150 Q50 130 48 100 Z" fill="#6B3F2A"/>
+  <!-- 瀏海 -->
+  <path d="M60 88 Q100 60 140 88 Q140 66 100 62 Q60 66 60 88 Z" fill="#6B3F2A"/>
+  <!-- 蝴蝶結 -->
+  <path d="M100 44 L86 34 L86 54 Z" fill="#EC4899"/>
+  <path d="M100 44 L114 34 L114 54 Z" fill="#EC4899"/>
+  <circle cx="100" cy="44" r="5" fill="#DB2777"/>
+  <!-- 眼睛 -->
+  <circle cx="82" cy="100" r="5" fill="#2D2320"/>
+  <circle cx="118" cy="100" r="5" fill="#2D2320"/>
+  <!-- 睫毛 -->
+  <path d="M75 92 L70 88" stroke="#2D2320" stroke-width="2.5" stroke-linecap="round"/>
+  <path d="M125 92 L130 88" stroke="#2D2320" stroke-width="2.5" stroke-linecap="round"/>
+  <!-- 微笑 -->
+  <path d="M84 120 Q100 134 116 120" stroke="#B5603F" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <circle cx="70" cy="112" r="7" fill="#F9A8A8" opacity=".6"/>
+  <circle cx="130" cy="112" r="7" fill="#F9A8A8" opacity=".6"/>
+</svg>

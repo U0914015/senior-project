@@ -1,0 +1,33 @@
+# Firebase 部署相關（不進版控）
+frontend/.firebase/
+frontend/.firebaserc
+frontend/firebase.json
+
+# 建置產物
+frontend/dist/
+
+# 依賴套件
+node_modules/
+
+# 編輯器/系統
+.DS_Store
+
+# Local configuration and deployment artifacts
+.env
+.env.*
+!.env.example
+.vercel/
+.deployment-tools/
+deploy/vercel-frontend/
+deploy/private/
+deploy/vercel-backend/
+
+# 真實學生個資（真實姓名、家長同意狀況等）——只留在本機，不進版控
+# 2026-09-25 跟使用者確認過：程式碼可以推上 GitHub，但真實學生資料不行
+前測資料/
+backend/scripts/real-roster-401-402-403.json
+# 2026-08-01 從原系統 pk-english-game 複製的完整 DB dump，裡面連 users 表都複製了，
+# 含真實帳號（陳瑩軒老師等）跟密碼雜湊——同樣是真實個資/帳密性質的資料，一併排除，
+# 不影響其他兩份只有 schema/教材參考資料的 dump（reference_data_only.sql、schema_only.sql
+# 確認過沒有任何 users/classes/groups 資料，可以安全留著）
+pk_english_dump_20260801_034312.sql

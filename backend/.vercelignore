@@ -1,0 +1,6 @@
+.env
+.env.*
+*.sql
+scripts/
+node_modules/
+*.log

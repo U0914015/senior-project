@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FFFBEB"/>
+  <!-- 太陽光芒 -->
+  <g stroke="#F59E0B" stroke-width="7" stroke-linecap="round">
+    <line x1="100" y1="26" x2="100" y2="46"/>
+    <line x1="100" y1="154" x2="100" y2="174"/>
+    <line x1="26" y1="100" x2="46" y2="100"/>
+    <line x1="154" y1="100" x2="174" y2="100"/>
+    <line x1="48" y1="48" x2="62" y2="62"/>
+    <line x1="138" y1="138" x2="152" y2="152"/>
+    <line x1="152" y1="48" x2="138" y2="62"/>
+    <line x1="62" y1="138" x2="48" y2="152"/>
+  </g>
+  <!-- 笑臉太陽 -->
+  <circle cx="100" cy="100" r="42" fill="#FBBF24"/>
+  <circle cx="88" cy="94" r="4" fill="#78350F"/>
+  <circle cx="112" cy="94" r="4" fill="#78350F"/>
+  <path d="M84 110 Q100 124 116 110" stroke="#78350F" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>

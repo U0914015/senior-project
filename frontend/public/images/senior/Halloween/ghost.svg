@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#EEF2FF"/>
+  <!-- 幽靈身體：圓頂 + 波浪底 -->
+  <path d="M60 150 L60 90 Q60 46 100 46 Q140 46 140 90 L140 150
+           Q132 138 122 150 Q112 162 100 150 Q90 138 78 150 Q68 162 60 150 Z"
+        fill="#F5F3FF" stroke="#C4B5FD" stroke-width="3"/>
+  <!-- 眼睛 -->
+  <circle cx="82" cy="94" r="7" fill="#4C1D95"/>
+  <circle cx="118" cy="94" r="7" fill="#4C1D95"/>
+  <!-- 嘴巴 -->
+  <ellipse cx="100" cy="116" rx="8" ry="10" fill="#4C1D95"/>
+  <!-- 腮紅 -->
+  <circle cx="66" cy="106" r="8" fill="#F9A8D4" opacity=".6"/>
+  <circle cx="134" cy="106" r="8" fill="#F9A8D4" opacity=".6"/>
+</svg>

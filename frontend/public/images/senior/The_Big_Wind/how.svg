@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#DBEAFE"/>
+  <!-- 對話泡泡：問「How's the weather?」的意思 -->
+  <path d="M42 62 Q42 40 64 40 L136 40 Q158 40 158 62 L158 106 Q158 128 136 128 L96 128 L74 152 L78 128 L64 128 Q42 128 42 106 Z" fill="#fff" stroke="#60A5FA" stroke-width="4"/>
+  <text x="100" y="100" font-family="Arial, sans-serif" font-size="68" font-weight="900" fill="#2563EB" text-anchor="middle" dominant-baseline="middle">?</text>
+</svg>

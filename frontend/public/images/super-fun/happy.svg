@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FEF9C3"/>
+  <!-- 臉 -->
+  <circle cx="100" cy="100" r="60" fill="#FDE047"/>
+  <!-- 眼睛：瞇成弧線的笑眼 -->
+  <path d="M68 90 Q78 76 88 90" stroke="#78350F" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <path d="M112 90 Q122 76 132 90" stroke="#78350F" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <!-- 大大的笑容 -->
+  <path d="M70 112 Q100 148 130 112 Q100 130 70 112 Z" fill="#78350F"/>
+  <!-- 腮紅 -->
+  <circle cx="62" cy="108" r="9" fill="#FB923C" opacity=".5"/>
+  <circle cx="138" cy="108" r="9" fill="#FB923C" opacity=".5"/>
+</svg>

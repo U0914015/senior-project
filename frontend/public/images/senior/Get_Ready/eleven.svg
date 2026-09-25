@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FEF3C7"/>
+  <text x="100" y="112" font-family="Arial, sans-serif" font-size="66" font-weight="900"
+        fill="#D97706" text-anchor="middle">11</text>
+  <!-- 一整排 10 顆 + 1 顆，用顏色區分十位跟個位 -->
+  <g fill="#F59E0B">
+    <circle cx="42" cy="160" r="5.5"/><circle cx="55" cy="160" r="5.5"/><circle cx="68" cy="160" r="5.5"/>
+    <circle cx="81" cy="160" r="5.5"/><circle cx="94" cy="160" r="5.5"/><circle cx="107" cy="160" r="5.5"/>
+    <circle cx="120" cy="160" r="5.5"/><circle cx="133" cy="160" r="5.5"/><circle cx="146" cy="160" r="5.5"/>
+    <circle cx="159" cy="160" r="5.5"/>
+  </g>
+  <circle cx="42" cy="178" r="5.5" fill="#DC2626"/>
+</svg>

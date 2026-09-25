@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#F0FDFA"/>
+  <!-- 側臉，嘴巴吹氣 -->
+  <ellipse cx="80" cy="100" rx="38" ry="42" fill="#FDE68A"/>
+  <circle cx="70" cy="92" r="4" fill="#78350F"/>
+  <ellipse cx="112" cy="106" rx="10" ry="7" fill="#F59E0B"/>
+  <!-- 吹出的氣 -->
+  <g stroke="#2DD4BF" stroke-width="6" fill="none" stroke-linecap="round">
+    <path d="M126 104 Q150 100 168 108"/>
+    <path d="M124 116 Q148 118 164 128"/>
+  </g>
+</svg>

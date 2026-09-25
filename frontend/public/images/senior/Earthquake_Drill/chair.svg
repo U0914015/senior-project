@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#EFF6FF"/>
+  <!-- 椅背 -->
+  <rect x="66" y="40" width="68" height="14" rx="5" fill="#3B82F6"/>
+  <rect x="66" y="54" width="14" height="50" fill="#3B82F6"/>
+  <rect x="120" y="54" width="14" height="50" fill="#3B82F6"/>
+  <!-- 椅面 -->
+  <rect x="56" y="104" width="88" height="16" rx="5" fill="#2563EB"/>
+  <!-- 椅腳 -->
+  <rect x="62" y="120" width="10" height="46" rx="3" fill="#1D4ED8"/>
+  <rect x="128" y="120" width="10" height="46" rx="3" fill="#1D4ED8"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#EEF2FF"/>
+  <!-- 夜晚的月亮與星星 -->
+  <path d="M156 50 A18 18 0 1 0 156 84 A14 14 0 1 1 156 50 Z" fill="#FDE68A"/>
+  <path d="M126 40 l3 6 6 1 -4.5 4.5 1 6.5 -5.5 -3 -5.5 3 1 -6.5 -4.5 -4.5 6 -1 z" fill="#FDE68A"/>
+  <!-- 餐盤 -->
+  <ellipse cx="90" cy="140" rx="58" ry="24" fill="#fff" stroke="#D1D5DB" stroke-width="4"/>
+  <ellipse cx="90" cy="136" rx="30" ry="14" fill="#A78BFA"/>
+  <circle cx="80" cy="132" r="6" fill="#7C3AED"/>
+  <circle cx="98" cy="134" r="6" fill="#7C3AED"/>
+</svg>

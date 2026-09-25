@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#F0FDF4"/>
+  <!-- 身體 -->
+  <rect x="70" y="150" width="60" height="40" rx="16" fill="#22C55E"/>
+  <!-- 頭 -->
+  <circle cx="100" cy="95" r="52" fill="#F4C08C"/>
+  <!-- 捲髮 -->
+  <circle cx="60" cy="65" r="16" fill="#5B3A22"/>
+  <circle cx="78" cy="48" r="17" fill="#5B3A22"/>
+  <circle cx="100" cy="42" r="18" fill="#5B3A22"/>
+  <circle cx="122" cy="48" r="17" fill="#5B3A22"/>
+  <circle cx="140" cy="65" r="16" fill="#5B3A22"/>
+  <!-- 眼睛 -->
+  <circle cx="82" cy="98" r="5" fill="#2D2320"/>
+  <circle cx="118" cy="98" r="5" fill="#2D2320"/>
+  <!-- 雀斑 -->
+  <circle cx="70" cy="112" r="2" fill="#C88A5A"/>
+  <circle cx="76" cy="118" r="2" fill="#C88A5A"/>
+  <circle cx="130" cy="112" r="2" fill="#C88A5A"/>
+  <circle cx="124" cy="118" r="2" fill="#C88A5A"/>
+  <!-- 笑容 -->
+  <path d="M82 120 Q100 136 118 120" stroke="#8A5A3A" stroke-width="5" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#ECFDF5"/>
+  <!-- 風的波浪線（比 windy 簡單，不含被吹彎的樹） -->
+  <g stroke="#34D399" stroke-width="8" fill="none" stroke-linecap="round">
+    <path d="M30 84 Q66 72 92 84 Q114 94 104 106 Q94 118 76 106"/>
+    <path d="M36 118 Q80 106 116 118 Q140 126 130 140 Q120 152 102 140"/>
+  </g>
+  <!-- 飄動的葉子 -->
+  <ellipse cx="150" cy="70" rx="12" ry="8" fill="#22C55E" transform="rotate(30 150 70)"/>
+</svg>

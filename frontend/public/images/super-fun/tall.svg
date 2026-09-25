@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#EFF6FF"/>
+  <!-- 參考身高線 -->
+  <line x1="40" y1="170" x2="40" y2="40" stroke="#93C5FD" stroke-width="3" stroke-dasharray="4 4"/>
+  <line x1="34" y1="40" x2="46" y2="40" stroke="#93C5FD" stroke-width="3"/>
+  <!-- 瘦高的身體 -->
+  <rect x="92" y="70" width="16" height="90" rx="8" fill="#3B82F6"/>
+  <!-- 手臂往上舉，表示很高 -->
+  <line x1="100" y1="80" x2="70" y2="45" stroke="#F4C08C" stroke-width="10" stroke-linecap="round"/>
+  <line x1="100" y1="80" x2="130" y2="90" stroke="#F4C08C" stroke-width="10" stroke-linecap="round"/>
+  <!-- 腿 -->
+  <line x1="96" y1="158" x2="88" y2="188" stroke="#1D4ED8" stroke-width="12" stroke-linecap="round"/>
+  <line x1="104" y1="158" x2="112" y2="188" stroke="#1D4ED8" stroke-width="12" stroke-linecap="round"/>
+  <!-- 頭 -->
+  <circle cx="100" cy="55" r="24" fill="#FCD9B8"/>
+  <path d="M78 50 Q78 32 100 32 Q122 32 122 50 Q122 38 100 38 Q78 38 78 50 Z" fill="#3B2A20"/>
+  <circle cx="93" cy="56" r="2.5" fill="#2D2320"/>
+  <circle cx="107" cy="56" r="2.5" fill="#2D2320"/>
+  <path d="M92 65 Q100 71 108 65" stroke="#B5603F" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#E5E7EB"/>
+  <!-- 太陽被雲遮住一半 -->
+  <circle cx="70" cy="85" r="26" fill="#FDE68A"/>
+  <!-- 大朵灰雲 -->
+  <ellipse cx="105" cy="115" rx="52" ry="30" fill="#F3F4F6"/>
+  <circle cx="72" cy="108" r="24" fill="#F3F4F6"/>
+  <circle cx="100" cy="92" r="30" fill="#F9FAFB"/>
+  <circle cx="140" cy="112" r="26" fill="#E5E7EB" stroke="#D1D5DB" stroke-width="2"/>
+  <ellipse cx="105" cy="118" rx="50" ry="26" fill="#E5E7EB" opacity=".5"/>
+</svg>

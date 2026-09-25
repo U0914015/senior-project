@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FEF3C7"/>
+  <text x="100" y="120" font-family="Arial, sans-serif" font-size="90" font-weight="900"
+        fill="#D97706" text-anchor="middle">9</text>
+  <!-- 數點：九顆 -->
+  <circle cx="55"  cy="158" r="7" fill="#F59E0B"/>
+  <circle cx="77"  cy="158" r="7" fill="#F59E0B"/>
+  <circle cx="99"  cy="158" r="7" fill="#F59E0B"/>
+  <circle cx="121" cy="158" r="7" fill="#F59E0B"/>
+  <circle cx="55"  cy="176" r="7" fill="#F59E0B"/>
+  <circle cx="77"  cy="176" r="7" fill="#F59E0B"/>
+  <circle cx="99"  cy="176" r="7" fill="#F59E0B"/>
+  <circle cx="121" cy="176" r="7" fill="#F59E0B"/>
+  <circle cx="88"  cy="187" r="7" fill="#F59E0B"/>
+</svg>

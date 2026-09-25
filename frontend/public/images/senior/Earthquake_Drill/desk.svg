@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FFF7ED"/>
+  <!-- 桌面 -->
+  <rect x="34" y="80" width="132" height="16" rx="4" fill="#D97706"/>
+  <!-- 桌腳 -->
+  <rect x="44" y="96" width="12" height="60" rx="3" fill="#92400E"/>
+  <rect x="144" y="96" width="12" height="60" rx="3" fill="#92400E"/>
+  <!-- 桌下橫木 -->
+  <rect x="44" y="128" width="112" height="8" rx="3" fill="#B45309"/>
+</svg>

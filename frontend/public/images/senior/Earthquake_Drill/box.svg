@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FEF3C7"/>
+  <!-- 紙箱本體 -->
+  <rect x="46" y="76" width="108" height="86" rx="4" fill="#D9A066"/>
+  <!-- 上蓋摺線 -->
+  <path d="M46 76 L100 100 L154 76" fill="none" stroke="#92400E" stroke-width="4" stroke-linejoin="round"/>
+  <path d="M46 76 L100 100 L46 122 Z" fill="#C88C55"/>
+  <path d="M154 76 L100 100 L154 122 Z" fill="#B87A44"/>
+  <!-- 封箱膠帶 -->
+  <rect x="92" y="76" width="16" height="86" fill="#FDE68A" opacity=".8"/>
+</svg>

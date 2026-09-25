@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FEF2F2"/>
+  <!-- 寬肩膀身體 -->
+  <path d="M62 110 Q62 88 100 88 Q138 88 138 110 L134 168 Q100 178 66 168 Z" fill="#EF4444"/>
+  <!-- 二頭肌手臂彎起 -->
+  <path d="M62 108 Q40 100 38 78 Q36 60 52 58 Q64 58 64 74 Q64 90 78 96" fill="#F4C08C"/>
+  <circle cx="46" cy="72" r="14" fill="#F4C08C"/>
+  <path d="M138 108 Q160 100 162 78 Q164 60 148 58 Q136 58 136 74 Q136 90 122 96" fill="#F4C08C"/>
+  <circle cx="154" cy="72" r="14" fill="#F4C08C"/>
+  <!-- 腿 -->
+  <line x1="84" y1="166" x2="80" y2="188" stroke="#B91C1C" stroke-width="14" stroke-linecap="round"/>
+  <line x1="116" y1="166" x2="120" y2="188" stroke="#B91C1C" stroke-width="14" stroke-linecap="round"/>
+  <!-- 頭 -->
+  <circle cx="100" cy="70" r="28" fill="#FCD9B8"/>
+  <path d="M74 64 Q74 42 100 42 Q126 42 126 64 Q126 50 100 48 Q74 50 74 64 Z" fill="#241C16"/>
+  <path d="M70 84 Q68 96 76 100" stroke="#241C16" stroke-width="6" fill="none" stroke-linecap="round"/>
+  <circle cx="91" cy="72" r="3" fill="#2D2320"/>
+  <circle cx="109" cy="72" r="3" fill="#2D2320"/>
+  <path d="M88 84 Q100 90 112 84" stroke="#B5603F" stroke-width="4" fill="none" stroke-linecap="round"/>
+</svg>

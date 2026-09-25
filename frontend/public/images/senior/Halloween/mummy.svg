@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#F5F0E6"/>
+  <!-- 身體 -->
+  <ellipse cx="100" cy="130" rx="46" ry="52" fill="#EDE4D3"/>
+  <!-- 頭 -->
+  <circle cx="100" cy="62" r="34" fill="#EDE4D3"/>
+  <!-- 繃帶紋路 -->
+  <g stroke="#C9BB9C" stroke-width="4" fill="none">
+    <path d="M70 50 Q100 40 130 50"/>
+    <path d="M68 68 Q100 58 132 68"/>
+    <path d="M62 96 Q100 84 138 96"/>
+    <path d="M58 118 Q100 106 142 118"/>
+    <path d="M58 140 Q100 128 142 140"/>
+    <path d="M62 160 Q100 150 138 160"/>
+  </g>
+  <!-- 眼睛縫隙 -->
+  <ellipse cx="86" cy="62" rx="6" ry="9" fill="#3D2B00"/>
+  <ellipse cx="114" cy="62" rx="6" ry="9" fill="#3D2B00"/>
+  <!-- 手臂往前伸 -->
+  <ellipse cx="52" cy="120" rx="14" ry="30" fill="#EDE4D3" transform="rotate(-25 52 120)"/>
+  <ellipse cx="148" cy="120" rx="14" ry="30" fill="#EDE4D3" transform="rotate(25 148 120)"/>
+</svg>

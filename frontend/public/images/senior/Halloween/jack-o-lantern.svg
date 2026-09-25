@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FFF0DB"/>
+  <!-- 蒂頭 -->
+  <rect x="92" y="34" width="16" height="24" rx="4" fill="#16A34A"/>
+  <!-- 南瓜身體 -->
+  <ellipse cx="100" cy="118" rx="66" ry="54" fill="#F97316"/>
+  <path d="M66 78 Q66 168 100 172 Q66 160 66 118 Q66 90 66 78 Z" fill="#EA580C" opacity=".5"/>
+  <path d="M134 78 Q134 168 100 172 Q134 160 134 118 Q134 90 134 78 Z" fill="#FB923C" opacity=".5"/>
+  <!-- 臉 -->
+  <path d="M74 100 L92 116 L74 128 Z" fill="#3D2B00"/>
+  <path d="M126 100 L108 116 L126 128 Z" fill="#3D2B00"/>
+  <path d="M70 148 Q100 172 130 148 Q116 156 100 148 Q84 156 70 148 Z" fill="#3D2B00"/>
+  <path d="M84 148 L92 140 L100 148 L108 140 L116 148" stroke="#3D2B00" stroke-width="0" fill="#3D2B00"/>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FEE2E2"/>
+  <!-- 臉 -->
+  <circle cx="100" cy="100" r="60" fill="#FCA5A5"/>
+  <!-- 眼睛 -->
+  <circle cx="78" cy="94" r="5" fill="#7F1D1D"/>
+  <circle cx="122" cy="94" r="5" fill="#7F1D1D"/>
+  <!-- 生氣的斜眉毛 -->
+  <path d="M64 78 L90 88" stroke="#7F1D1D" stroke-width="6" stroke-linecap="round"/>
+  <path d="M136 78 L110 88" stroke="#7F1D1D" stroke-width="6" stroke-linecap="round"/>
+  <!-- 咬牙嘴型 -->
+  <path d="M76 122 Q100 112 124 122 L124 132 Q100 124 76 132 Z" fill="#7F1D1D"/>
+  <!-- 生氣符號 -->
+  <path d="M144 62 L154 72 M154 62 L144 72" stroke="#DC2626" stroke-width="5" stroke-linecap="round"/>
+</svg>

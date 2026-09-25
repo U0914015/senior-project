@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FFF7ED"/>
+  <!-- 帽子被抓走 -->
+  <path d="M62 118 Q100 96 138 118 L128 128 Q100 112 72 128 Z" fill="#F59E0B"/>
+  <ellipse cx="100" cy="118" rx="28" ry="10" fill="#FBBF24"/>
+  <!-- 手 -->
+  <path d="M96 150 L100 116 L112 118 L110 148 Q118 150 118 160 Q118 170 100 170 Q84 170 84 160 Q84 152 96 150 Z" fill="#FDE68A" stroke="#B45309" stroke-width="2"/>
+</svg>

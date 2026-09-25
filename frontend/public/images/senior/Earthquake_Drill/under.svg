@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#F1F8F2"/>
+  <!-- 椅子 -->
+  <rect x="70" y="40" width="60" height="12" rx="5" fill="#3B82F6"/>
+  <rect x="70" y="52" width="12" height="40" fill="#3B82F6"/>
+  <rect x="118" y="52" width="12" height="40" fill="#3B82F6"/>
+  <rect x="62" y="92" width="76" height="14" rx="5" fill="#2563EB"/>
+  <rect x="68" y="106" width="9" height="60" rx="3" fill="#1D4ED8"/>
+  <rect x="123" y="106" width="9" height="60" rx="3" fill="#1D4ED8"/>
+  <!-- 球在椅子腳之間的地上（under the chair） -->
+  <circle cx="100" cy="148" r="20" fill="#EF4444"/>
+  <path d="M82 148 Q100 158 118 148" stroke="#B91C1C" stroke-width="3" fill="none"/>
+  <ellipse cx="100" cy="172" rx="26" ry="6" fill="#1F2937" opacity=".15"/>
+</svg>

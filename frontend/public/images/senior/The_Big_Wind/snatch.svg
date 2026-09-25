@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FEFCE8"/>
+  <!-- 風的動線，呼應「風把帽子搶走」的情境 -->
+  <g stroke="#6EE7B7" stroke-width="6" fill="none" stroke-linecap="round">
+    <path d="M26 74 Q56 64 80 76"/>
+    <path d="M32 104 Q62 94 86 104"/>
+  </g>
+  <!-- 被搶走、往右上飛走的帽子 -->
+  <g transform="rotate(18 138 68)">
+    <ellipse cx="138" cy="84" rx="34" ry="9" fill="#FBBF24" stroke="#B45309" stroke-width="2.5"/>
+    <path d="M120 84 Q120 54 138 54 Q156 54 156 84 Z" fill="#FCD34D" stroke="#B45309" stroke-width="2.5"/>
+    <rect x="120" y="76" width="36" height="8" fill="#DC2626"/>
+  </g>
+  <!-- 伸手要搶的手 -->
+  <ellipse cx="66" cy="152" rx="26" ry="32" fill="#FBCFE8" stroke="#DB2777" stroke-width="3" transform="rotate(-30 66 152)"/>
+  <ellipse cx="44" cy="140" rx="10" ry="16" fill="#FBCFE8" stroke="#DB2777" stroke-width="3" transform="rotate(-55 44 140)"/>
+</svg>

@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#EEF2FF"/>
+  <!-- 脖子+身體 -->
+  <rect x="70" y="150" width="60" height="40" rx="16" fill="#6366F1"/>
+  <!-- 頭 -->
+  <circle cx="100" cy="95" r="52" fill="#FCD9B8"/>
+  <!-- 頭髮 -->
+  <path d="M50 90 Q50 40 100 40 Q150 40 150 90 Q150 60 100 55 Q50 60 50 90 Z" fill="#3B2A20"/>
+  <!-- 眼鏡 -->
+  <circle cx="80" cy="98" r="16" fill="none" stroke="#3B2A20" stroke-width="4"/>
+  <circle cx="120" cy="98" r="16" fill="none" stroke="#3B2A20" stroke-width="4"/>
+  <line x1="96" y1="98" x2="104" y2="98" stroke="#3B2A20" stroke-width="4"/>
+  <line x1="64" y1="96" x2="56" y2="92" stroke="#3B2A20" stroke-width="4"/>
+  <line x1="136" y1="96" x2="144" y2="92" stroke="#3B2A20" stroke-width="4"/>
+  <!-- 眼睛 -->
+  <circle cx="80" cy="98" r="4" fill="#2D2320"/>
+  <circle cx="120" cy="98" r="4" fill="#2D2320"/>
+  <!-- 微笑 -->
+  <path d="M82 122 Q100 138 118 122" stroke="#8A5A3A" stroke-width="5" fill="none" stroke-linecap="round"/>
+  <!-- 腮紅 -->
+  <circle cx="68" cy="112" r="7" fill="#F9A8A8" opacity=".6"/>
+  <circle cx="132" cy="112" r="7" fill="#F9A8A8" opacity=".6"/>
+</svg>

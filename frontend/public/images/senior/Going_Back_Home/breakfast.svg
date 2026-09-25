@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FFFBEB"/>
+  <!-- 晨光太陽 -->
+  <circle cx="150" cy="54" r="20" fill="#FDE68A"/>
+  <!-- 盤子 -->
+  <ellipse cx="90" cy="140" rx="58" ry="24" fill="#fff" stroke="#D1D5DB" stroke-width="4"/>
+  <!-- 吐司 -->
+  <rect x="56" y="104" width="36" height="34" rx="8" fill="#FBBF24"/>
+  <rect x="62" y="110" width="24" height="20" rx="5" fill="#FDE68A"/>
+  <!-- 荷包蛋 -->
+  <circle cx="112" cy="122" r="20" fill="#fff" stroke="#E5E7EB" stroke-width="2"/>
+  <circle cx="116" cy="120" r="9" fill="#F59E0B"/>
+  <!-- 牛奶杯 -->
+  <path d="M146 96 L152 138 L166 138 L172 96 Z" fill="#EFF6FF" stroke="#93C5FD" stroke-width="3"/>
+  <rect x="147" y="96" width="24" height="8" fill="#fff" stroke="#93C5FD" stroke-width="3"/>
+</svg>

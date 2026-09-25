@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <circle cx="100" cy="100" r="96" fill="#FFF7ED"/>
+  <rect x="70" y="150" width="60" height="40" rx="16" fill="#F59E0B"/>
+  <circle cx="100" cy="95" r="52" fill="#F4C08C"/>
+  <!-- 短刺蝟頭 -->
+  <path d="M52 88 Q56 44 100 42 Q144 44 148 88 Q140 62 120 58 L124 44 L112 56 L104 40 L100 56 L92 40 L88 56 L76 44 L80 58 Q60 62 52 88 Z" fill="#241C16"/>
+  <!-- 眼睛 -->
+  <circle cx="80" cy="100" r="5" fill="#2D2320"/>
+  <circle cx="120" cy="100" r="5" fill="#2D2320"/>
+  <!-- 眉毛 -->
+  <path d="M72 86 Q80 80 88 86" stroke="#241C16" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <path d="M112 86 Q120 80 128 86" stroke="#241C16" stroke-width="4" fill="none" stroke-linecap="round"/>
+  <!-- 開心笑容 -->
+  <path d="M80 122 Q100 142 120 122 Q100 132 80 122 Z" fill="#8A5A3A"/>
+  <circle cx="68" cy="114" r="7" fill="#F9A8A8" opacity=".6"/>
+  <circle cx="132" cy="114" r="7" fill="#F9A8A8" opacity=".6"/>
+</svg>
